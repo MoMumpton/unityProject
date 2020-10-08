@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeadZone
+  - ScoreZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Score
+  - Spawn
+  - SeaweedSpawn
+  - GameOver
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 81264721
+    locked: 0
+  - name: Over
+    uniqueID: 3912278069
+    locked: 0
+  - name: Score
+    uniqueID: 3145248375
+    locked: 0
+  - name: replayBtn
+    uniqueID: 888406217
+    locked: 0
+  - name: Game
+    uniqueID: 2489246269
+    locked: 0
+  - name: Spawn
+    uniqueID: 184692205
+    locked: 0
+  - name: SeaweedSpawn
+    uniqueID: 230676853
+    locked: 0
