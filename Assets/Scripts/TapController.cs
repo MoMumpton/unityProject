@@ -1,7 +1,7 @@
 ﻿/*
  * Tap Controller code to control the player object.
  * physics/rigidbody2D/quanterion learned from https://docs.unity3d.com/ScriptReference
- * project F, Fall 2020
+ * Group F, Fall 2020
  * Unity Game Engine, scripting in Rider C#
  */
 
